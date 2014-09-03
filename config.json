@@ -1,0 +1,13 @@
+{
+    "name": "DependencyStatus",
+    "className": "CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "1.32",
+    "javascript": [
+        "DependencyDataService.js",
+        "DependencyDataPresenter.js"
+    ],
+    "css": [
+        "DependencyStatus.css"
+    ]
+}
